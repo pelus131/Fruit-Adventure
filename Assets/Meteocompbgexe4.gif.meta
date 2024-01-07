@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 2e6f67963744c8849b21175d76032dbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3331737254558679114
+    second: Meteocompbgexe4_0
+  - first:
+      213: 544365646350051165
+    second: Meteocompbgexe4_1
+  - first:
+      213: -2862290332902606076
+    second: Meteocompbgexe4_2
+  - first:
+      213: 2562386977718934494
+    second: Meteocompbgexe4_3
+  - first:
+      213: -960900423767452791
+    second: Meteocompbgexe4_4
+  - first:
+      213: -4942701842844794175
+    second: Meteocompbgexe4_5
+  - first:
+      213: 803579592373248148
+    second: Meteocompbgexe4_6
+  - first:
+      213: 8210392976609747583
+    second: Meteocompbgexe4_7
+  - first:
+      213: -5617053915085596451
+    second: Meteocompbgexe4_8
+  - first:
+      213: 1136673393529870404
+    second: Meteocompbgexe4_9
+  - first:
+      213: -1587864764858337624
+    second: Meteocompbgexe4_10
+  - first:
+      213: 3260740920250184652
+    second: Meteocompbgexe4_11
+  - first:
+      213: 7249087531421696964
+    second: Meteocompbgexe4_12
+  - first:
+      213: 5064226873984525408
+    second: Meteocompbgexe4_13
+  - first:
+      213: -2392739044058567512
+    second: Meteocompbgexe4_14
+  - first:
+      213: 7455674886412853510
+    second: Meteocompbgexe4_15
+  - first:
+      213: 6865060389806739509
+    second: Meteocompbgexe4_16
+  - first:
+      213: 1251038164956990927
+    second: Meteocompbgexe4_17
+  - first:
+      213: -2406197207018580618
+    second: Meteocompbgexe4_18
+  - first:
+      213: 6749698302998586014
+    second: Meteocompbgexe4_19
+  - first:
+      213: 3983461414393781859
+    second: Meteocompbgexe4_20
+  - first:
+      213: -6168364397115399186
+    second: Meteocompbgexe4_21
+  - first:
+      213: -5208118442755939720
+    second: Meteocompbgexe4_22
+  - first:
+      213: 6409681626499331639
+    second: Meteocompbgexe4_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteocompbgexe4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c7e67165bc3e20800000000000000
+      internalID: 3331737254558679114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1232
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ee92dba9fd8700800000000000000
+      internalID: 544365646350051165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1232
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b3e477b1a1748d0800000000000000
+      internalID: -2862290332902606076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1600516d6f8320800000000000000
+      internalID: 2562386977718934494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1056
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98391d8d7223aa2f0800000000000000
+      internalID: -960900423767452791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1056
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2419a8cdef76bb0800000000000000
+      internalID: -4942701842844794175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902928b163e62b00800000000000000
+      internalID: 803579592373248148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 880
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72af2569ec21f170800000000000000
+      internalID: 8210392976609747583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 880
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81b1389373c02b0800000000000000
+      internalID: -5617053915085596451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4485cf6dd6646cf00800000000000000
+      internalID: 1136673393529870404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67243c865c6f9e0800000000000000
+      internalID: -1587864764858337624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b710479a704d20800000000000000
+      internalID: 3260740920250184652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c38a18d3bee99460800000000000000
+      internalID: 7249087531421696964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 528
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a5dda28fb74640800000000000000
+      internalID: 5064226873984525408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 528
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6ea644884bced0800000000000000
+      internalID: -2392739044058567512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601607daec0e77760800000000000000
+      internalID: 7455674886412853510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53019084d08954f50800000000000000
+      internalID: 6865060389806739509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdc7be25949c5110800000000000000
+      internalID: 1251038164956990927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675de1883687b9ed0800000000000000
+      internalID: -2406197207018580618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a94b58debbad50800000000000000
+      internalID: 6749698302998586014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 176
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9a651d09184730800000000000000
+      internalID: 3983461414393781859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee325c02341956aa0800000000000000
+      internalID: -6168364397115399186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722f5fbedb09b7b0800000000000000
+      internalID: -5208118442755939720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteocompbgexe4_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73637d6ba73c3f850800000000000000
+      internalID: 6409681626499331639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
